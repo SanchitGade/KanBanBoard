@@ -6,6 +6,8 @@ I built this project mainly to practice my React concepts, understand how drag-a
 
 
 ![Kanban Board](./public/screenshots/ss1.png)
+
+
 ![Kanban Board](./public/screenshots/ss2.png)
 
 ## Features
