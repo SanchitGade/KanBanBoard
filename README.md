@@ -1,4 +1,4 @@
-## KanBan Board
+## KanBan Board - https://kan-ban-board-peach.vercel.app/
 
 A clean and minimal Kanban board built using React and dnd-kit.
 
