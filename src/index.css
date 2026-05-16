@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@layer base {
+  h1 { @apply text-4xl font-bold; }
+  h2 { @apply text-3xl font-semibold; }
+  h3 { @apply text-2xl font-medium; }
+}
+
+@theme{
+  --font-bungee: 'Bungee';
+  --font-poppins: 'Poppins';
+  --font-grace: 'Covered By Your Grace';
+}
+
+@keyframes float {
+
+  0% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(-6px);
+  }
+
+  100% {
+    transform: translateY(0px);
+  }
+}
